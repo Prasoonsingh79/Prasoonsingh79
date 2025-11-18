@@ -13,7 +13,7 @@
 - ✍️ Developed a **Full Blogging Platform** (Auth, Editor, Comments, Categories, Admin Panel)  
 - 🧠 Built AI/ML Projects: **MNIST Classifier, Image Captioning, Image Segmentation, Chatbot**
 - 🌱 Currently learning: **MLOps, DevOps, Cloud Deployment**
-- 📫 Reach me at: **prasoon.singh79@gmail.com**
+- 📫 Reach me at: **sprasoo876@gmail.com**
 
 ---
 
@@ -93,7 +93,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="mailto:prasoon.singh79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sprasoo87679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
