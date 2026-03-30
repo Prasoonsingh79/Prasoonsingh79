@@ -1,99 +1,205 @@
-<h1 align="center">Hi 👋, I'm Prasoon Singh</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Final-Year B.Tech Student</h3>
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  ██████╗ ██████╗  █████╗ ███████╗ ██████╗  ██████╗ ███╗   ██╗            ║
+║  ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔═══██╗████╗  ██║            ║
+║  ██║   ██║██████╔╝███████║███████╗██║   ██║██║   ██║██╔██╗ ██║            ║
+║  ██║   ██║██╔═══╝ ██╔══██║╚════██║██║   ██║██║   ██║██║╚██╗██║            ║
+║  ╚██████╔╝██║     ██║  ██║███████║╚██████╔╝╚██████╔╝██║ ╚████║            ║
+║   ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝            ║
+║                                                                          ║
+║                    🚀 PRASOON SINGH 🚀                                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### 🚀 Building Scalable Web & AI Solutions
+
+**Full Stack Developer | AI/ML Enthusiast | Final-Year B.Tech Student**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-2ea043?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/prasoon-singh-b26777253/)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge\&logo=gmail)](mailto:sprasoo876@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Prasoonsingh79&style=for-the-badge&color=2ea043" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 💭 Developer Mindset
 
-- 🎓 Pursuing **B.Tech in Computer Science**
-- 💻 A passionate **Full-Stack Developer** (MERN + Next.js + Prisma + PostgreSQL)
-- 🤖 Skilled in **Machine Learning, Deep Learning & Data Science**
-- 🏫 Built a complete **Real-Time School Management Dashboard (Next.js + Prisma + PostgreSQL)**  
-- 🏋️ Created a **Gym Management System** with full authentication & real-time analytics  
-- ✍️ Developed a **Full Blogging Platform** (Auth, Editor, Comments, Categories, Admin Panel)  
-- 🧠 Built AI/ML Projects: **MNIST Classifier, Image Captioning, Image Segmentation, Chatbot**
-- 🌱 Currently learning: **MLOps, DevOps, Cloud Deployment**
-- 📫 Reach me at: **sprasoo876@gmail.com**
+```javascript
+const prasoon = {
+  name: "PRASOON SINGH",
+  location: "India 🇮🇳",
+  
+  roles: [
+    "Full Stack Developer",
+    "AI/ML Engineer",
+    "Problem Solver"
+  ],
+
+  mindset: "Build real-world scalable products",
+
+  current_focus: {
+    learning: ["MLOps", "DevOps", "Cloud Deployment"],
+    building: ["AI-powered dashboards", "Real-time systems"],
+    exploring: ["Next.js advanced patterns", "Prisma optimization"]
+  }
+};
+```
+
+---
+
+## 🎯 What I Bring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+
+```typescript
+const frontend = {
+  frameworks: ['React', 'Next.js'],
+  styling: ['TailwindCSS'],
+  state: ['Context API', 'React Query'],
+  focus: 'Clean UI + Performance'
+}
+```
+
+</td>
+<td width="50%">
+
+### ⚡ Backend
+
+```python
+backend = {
+    "runtime": ["Node.js"],
+    "frameworks": ["Express.js"],
+    "database": ["PostgreSQL", "MongoDB"],
+    "orm": ["Prisma"],
+    "auth": ["Clerk", "JWT"]
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
+<div align="center">
 
-### **AI & Machine Learning Tools**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-27338E.svg?style=for-the-badge&logo=opencv">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy">
-</p>
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### ⚡ Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+### 🤖 AI/ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv)
+
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏫 **Real-Time School Management System (Full Stack)**
-✔ Role-based Dashboard (Admin / Teacher / Student)  
-✔ Attendance, Results, Subjects, Classes, Parents  
-✔ Full CRUD using **Next.js + Prisma + PostgreSQL + Clerk Auth**
-
-### 🏋️ **Gym Management System**
-✔ Member Registration, Subscription Plans, Payments  
-✔ Attendance Tracking, BMI Calculator, Trainer Panel  
-✔ MERN Stack (MongoDB, Express, React, Node.js)
-
-### ✍️ **Full Blogging Platform**
-✔ Auth + Admin Panel + Categories  
-✔ Rich Text Editor + SEO Friendly  
-✔ MERN + Firebase Storage
-
-### 🧠 **MNIST Image Classifier**
-✔ CNN model predicts handwritten digits (0–9)  
-✔ Achieved ~99% accuracy
-
-### 🖼️ **Image Captioning & Segmentation Web App**
-✔ Uses **CNN + LSTM** for caption generation  
-✔ **UNet** model for image segmentation  
-✔ Built on **Flask / Streamlit**
-
-### 🤖 **Chatbot using Machine Learning**
-✔ Intent classification + custom response system  
-✔ Built with **NLTK / TensorFlow**
+| Project                             | Description                              | Tech                        |
+| ----------------------------------- | ---------------------------------------- | --------------------------- |
+| 🏫 School Management System         | Role-based dashboard with real-time data | Next.js, Prisma, PostgreSQL |
+| 🏋️ Gym Management System           | Authentication, payments, analytics      | MERN Stack                  |
+| ✍️ Blogging Platform                | Full CMS with admin panel                | MERN + Firebase             |
+| 🧠 MNIST Classifier                 | CNN-based digit recognition              | TensorFlow                  |
+| 🖼️ Image Captioning & Segmentation | AI-based image processing                | CNN + LSTM + UNet           |
+| 🤖 ML Chatbot                       | Intent-based chatbot system              | NLTK + TensorFlow           |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prasoonsingh79&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasoonsingh79&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoonsingh79&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Prasoonsingh79&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasoonsingh79&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoonsingh79&layout=compact&theme=tokyonight" width="50%" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p>
-  <a href="mailto:sprasoo87679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prasoon-singh-b26777253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<div align="center">
 
+![snake gif](https://raw.githubusercontent.com/Prasoonsingh79/Prasoonsingh79/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌟 Why Hire Me?
+
+<div align="center">
+
+|   💡 Problem Solver  |  🚀 Fast Learner |   ⚡ Full Stack  | 🤖 AI Enthusiast |
+| :------------------: | :--------------: | :-------------: | :--------------: |
+| Real-world solutions | Quick adaptation | End-to-end apps |   Smart systems  |
+
+</div>
+
+```diff
++ Built production-level dashboards
++ Strong in MERN + Next.js + Prisma
++ AI + Web Integration skills
++ Clean scalable architecture mindset
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+📧 **Email:** [sprasoo876@gmail.com](mailto:sprasoo876@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/prasoon-singh-b26777253/
+
+---
+
+### 💬 Fun Fact
+
+```javascript
+while (true) {
+  code();
+  learn();
+  build();
+  repeat();
+}
+```
+
+---
+
+⭐ From **PRASOON SINGH**
+
+</div>
